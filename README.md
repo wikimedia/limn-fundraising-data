@@ -1,4 +1,4 @@
-# Limn &mdash; Editor Engagement Data
+# Limn &mdash; Fundraising Data
 
 [Limn][limn] is a GUI Visualization Toolkit.  This repository is a set of visualizations relevant to Wikimedia Foundation Fundraising.
 
@@ -10,9 +10,9 @@
 
 ```
 cd /path/to/limn/../
-clone git@github.com:wikimedia/limn-editor-engagement.git
+clone git@github.com:wikimedia/limn-fundraising-data.git
 cd /path/to/limn
-coke --vardir ./var --data ../../../../limn-editor-engagement --to eee link_data
+coke --vardir ./var --data ../../../../limn-fundraising-data --to fundraising link_data
 npm start
 ```
 
