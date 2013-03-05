@@ -1,0 +1,47 @@
+{
+    "id":"fundraising_yeardata_day_vs_ytdsum",
+    "slug":"fundraising_yeardata_day_vs_ytdsum",
+    "format":"csv",
+    "type":"timeseries",
+    "url":"http://frack-proxy.wmflabs.org/yeardata/yeardata-day-vs-ytdsum.csv",
+    "name":"Year To Date Donations (USD)",
+    "columns":[
+        {
+            "label":"date",
+            "type":"Date",
+            "index":0
+        },{
+            "label":"2006",
+            "type":"Number",
+            "index":1
+        },{
+            "label":"2007",
+            "type":"Number",
+            "index":2
+        },{
+            "label":"2008",
+            "type":"Number",
+            "index":3
+        },{
+            "label":"2009",
+            "type":"Number",
+            "index":4
+        },{
+            "label":"2010",
+            "type":"Number",
+            "index":5
+        },{
+            "label":"2011",
+            "type":"Number",
+            "index":6
+        },{
+            "label":"2012",
+            "type":"Number",
+            "index":7
+        },{
+            "label":"2013",
+            "type":"Number",
+            "index":8
+        }
+    ]
+}
